@@ -83,7 +83,7 @@ This Android project was developed as part of my internship at Cognifyz. The aim
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/Shaan013/Cognifyz-Internship.git
 
 2. Open the project in **Android Studio**.
 
